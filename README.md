@@ -1,4 +1,3 @@
 - Hi, I’m Dani
 - I’m interested in computers, coding, technology
 - I’m currently learning C#
-- Currently working on a project, should be up soon (well would of been if firefox didn't close when i spent over half a hour writing a readme.md)
